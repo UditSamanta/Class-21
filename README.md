@@ -1,2 +1,2 @@
-# Class-21
-BounceOff, Creation of Libraries
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
